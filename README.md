@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh!</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **NumPy**
+- 🌱 I’m currently learning **Numpy**
 
 - 💬 Ask me about **Django,Django Rest Framework**
 
