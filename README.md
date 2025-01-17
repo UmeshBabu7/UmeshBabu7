@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Numpy**
 
-- 💬 Ask me about **Django, Django Rest Framework**
+- 💬 Ask me about **Python, Django, Django Rest Framework**
 
 - 📫 How to reach me **umeshtamang129@gmail.com**
 
